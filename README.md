@@ -1,5 +1,5 @@
 # CalliGen-Generating-Chinese-Characters-with-Hand-written-Skeleton-and-Font-Stroke-Style
-![Qualitative Results](assets/quali (1).png)
+![Qualitative Results](assets/qualitative.png)
 ## Generation
 ### Requirements
 ```bash
